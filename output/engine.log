@@ -1,0 +1,30 @@
+
+03-09-2016 12:47:14:179 - I: 	Loaded bot ../bombyMcBombFace
+03-09-2016 12:47:14:193 - I: 	Loaded bot ../bomby7
+03-09-2016 12:47:14:193 - I: 	Loaded bot ../bomby7
+03-09-2016 12:47:14:193 - I: 	Loaded bot ../bomby7
+03-09-2016 12:47:14:193 - I: 	Registered player bombyMcBombFace
+03-09-2016 12:47:14:193 - I: 	Registered player bomby7
+03-09-2016 12:47:14:193 - I: 	Registered player bomby7
+03-09-2016 12:47:14:193 - I: 	Registered player bomby7
+03-09-2016 12:47:14:229 - I: 		OK!
+03-09-2016 12:47:16:401 - I: 	Added Command MovementCommand(Down) for Player PlayerEntity(X:2, Y:2, Key:A)
+03-09-2016 12:47:17:293 - I: 	Added Command MovementCommand(Left) for Player PlayerEntity(X:20, Y:20, Key:B)
+03-09-2016 12:47:17:987 - I: 	Added Command MovementCommand(Right) for Player PlayerEntity(X:2, Y:20, Key:C)
+03-09-2016 12:47:18:470 - I: 	Added Command MovementCommand(Left) for Player PlayerEntity(X:20, Y:2, Key:D)
+03-09-2016 12:47:18:471 - D: 	Beginning round processing
+03-09-2016 12:47:18:472 - D: 	Removing Bomb Explosions from map
+03-09-2016 12:47:18:472 - D: 	Decreasing Bomb Timers
+03-09-2016 12:47:18:472 - D: 	Detonating Bombs
+03-09-2016 12:47:18:474 - D: 	Processing Player Commands
+03-09-2016 12:47:18:493 - I: 	Trying to move player A to destination Location(X:2,Y:3)
+03-09-2016 12:47:18:493 - I: 	Trying to move player B to destination Location(X:19,Y:20)
+03-09-2016 12:47:18:493 - I: 	Trying to move player C to destination Location(X:3,Y:20)
+03-09-2016 12:47:18:493 - I: 	Trying to move player D to destination Location(X:19,Y:2)
+03-09-2016 12:47:18:494 - D: 	Applying player power ups
+03-09-2016 12:47:18:495 - D: 	Destroying marked entities
+03-09-2016 12:47:18:501 - I: 	Player PlayerEntity(X:2, Y:3, Key:A) has a movement coverage of 0.71% for the map
+03-09-2016 12:47:18:501 - I: 	Player PlayerEntity(X:19, Y:20, Key:B) has a movement coverage of 0.71% for the map
+03-09-2016 12:47:18:501 - I: 	Player PlayerEntity(X:3, Y:20, Key:C) has a movement coverage of 0.71% for the map
+03-09-2016 12:47:18:501 - I: 	Player PlayerEntity(X:19, Y:2, Key:D) has a movement coverage of 0.71% for the map
+03-09-2016 12:47:18:501 - D: 	Round processing complete

@@ -1,0 +1,58 @@
+Map Width: 21, Map Height: 21, Current Round: 0, Seed: 41738155, PlayerBounty: 330
+#####################
+#A  ++++ + + ++++  D#
+# # #+# # # # #+# # #
+#+ + ++ ++ ++ ++ + +#
+#+# # # # # # # # #+#
+#+  +     +     +  +#
+# # # #+#+#+#+# # # #
+#+ +  ++  +  ++  + +#
+#+#+# # #+#+# # #+#+#
+# +    +++++++    + #
+# # #+# #+$+# #+# # #
+# +    +++++++    + #
+#+#+# # #+#+# # #+#+#
+#+ +  ++  +  ++  + +#
+# # # #+#+#+#+# # # #
+#+  +     +     +  +#
+#+# # # # # # # # #+#
+#+ + ++ ++ ++ ++ + +#
+# # #+# # # # #+# # #
+#C  ++++ + + ++++  B#
+#####################
+---------------------------
+Player Name: bombyMcBombFace
+Key: A
+Points: 0
+Status: Alive
+Bombs: 
+BombBag: 1
+BlastRadius: 1
+---------------------------
+---------------------------
+Player Name: bomby7
+Key: B
+Points: 0
+Status: Alive
+Bombs: 
+BombBag: 1
+BlastRadius: 1
+---------------------------
+---------------------------
+Player Name: bomby7
+Key: C
+Points: 0
+Status: Alive
+Bombs: 
+BombBag: 1
+BlastRadius: 1
+---------------------------
+---------------------------
+Player Name: bomby7
+Key: D
+Points: 0
+Status: Alive
+Bombs: 
+BombBag: 1
+BlastRadius: 1
+---------------------------
